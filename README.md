@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="github-header-banner.png" alt="Banner Davi" width="100%">
+</div>
+
 <!--
 **Davzx23/Davzx23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
